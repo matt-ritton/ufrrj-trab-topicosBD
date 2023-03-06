@@ -4,6 +4,8 @@ O presente trabalho foi feito em 2022 para a disciplina de Tópicos em Banco de 
 
 O projeto consiste em um modelo de predição para ocorrência de AVC utilizando dados do Behavioral Risk Factor Surveillance System 2015, programa de pesquisas do Centro de Prevenção e Controle de Doenças dos Estados Unidos.
 
+Os algoritmos de classificação utilizados foram: Decision Tree, Random Forest, Support Vector Machine (SVM) e K-Neighbors (KNN)
+
 As tecnologias utilizadas foram:
 
 - Python
